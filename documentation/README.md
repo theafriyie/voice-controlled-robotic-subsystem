@@ -1,6 +1,6 @@
 # Documentation
 
-This folder contains the written materials and supporting documentation for the project.
+This folder contains supporting documentation for the project.
 
 Suggested contents:
 - project write-up
