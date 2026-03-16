@@ -4,7 +4,6 @@ This folder contains the written materials and supporting documentation for the 
 
 Suggested contents:
 - project write-up
-- slides
 - setup notes
 - training summary
 - deployment notes
